@@ -7,7 +7,6 @@ def hanoi(n, a, b, c):  # 汉诺递推公式：h(x)=2h(x-1)+1
 
 hanoi(64, 'A', 'B', 'C')
 
-
 def linear_search(li, val):  # 时间复杂度O(n)
     for ind, v in enumerate(li):
         if v == val:
