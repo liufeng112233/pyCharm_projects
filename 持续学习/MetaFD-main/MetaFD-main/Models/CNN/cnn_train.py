@@ -14,6 +14,8 @@ from Models.CNN.cnn_model import CNN_Model
 from Datasets.cwru_data import CNN_DataGenerator
 from my_utils.init_utils import seed_tensorflow
 
+from cnn_model import CNN_Model
+
 import visdom
 vis = visdom.Visdom(env='yancy_meta')
 
