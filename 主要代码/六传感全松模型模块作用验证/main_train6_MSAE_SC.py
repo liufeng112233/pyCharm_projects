@@ -12,7 +12,7 @@ import Bolt_work7_sensor6_MSDGI_graph_processing
 import Bolt_work8_sensor6_MSDGI_graph_processing
 import Bolt_work9_sensor6_MSDGI_graph_processing
 
-import Beam_work3_sensor6_MSDGI_graph_processing
+# import Beam_work3_sensor6_MSDGI_graph_processing
 import Beam_work5_sensor6_MSDGI_graph_processing
 
 import Bolt4_work4_sensor6_MSDGI_graph_processing   # 轴向振动，四螺栓松动程度识别
